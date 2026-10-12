@@ -1,4 +1,4 @@
-# c9n-ext-browser 1.0.0
+# c9n-ext-browser 0.9.16
 
 Chromium und Playwright als Erweiterung für c9n. Agenten-Skripte, die einen Browser starten, nutzen ihn über diesen Dienst, sobald die Erweiterung aktiv ist. Verlangt c9n mit Erweiterungs-Schnittstelle 1 (ab c9n 0.9.16).
 
